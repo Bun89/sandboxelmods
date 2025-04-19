@@ -60,3 +60,8 @@ Right now to run it, you would need to do `git clone <sandboxels repositories gi
 ***Potato*** → ***Mashed Potato*** (Smash)  
 ***Mashed Potato*** + ***Cold Water*** → ***Cold Potato***  
 ***Cold Potato*** + ***Alcohol*** → ***Vodka***  
+
+### Brazilian Rum
+***Sugar Cane*** → ***Crushed Sugar Cane*** (smash)
+***Crushed sugar cane*** + ***Hot Water*** → ***Sugar Cane Syrup***
+***Sugar cane syrup*** + ***Yeast*** → ***Brazilian Rum***
